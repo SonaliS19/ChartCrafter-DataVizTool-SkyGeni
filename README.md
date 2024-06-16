@@ -2,13 +2,6 @@
 
 
 
-![code output1](./Screenshots/output1.jpg)
-
-![graph output2](./Screenshots/output2.jpg)
-![graph output3](./Screenshots/output5.jpg)
-![graph output4](./Screenshots/output6.jpg)
-![FileStructure](./Screenshots/filestruct.jpg)
-
 ## Installation Guide
 
 ### Requirements
@@ -34,3 +27,12 @@ npm start
  localhost:5050
 ```
 Here we are Done! Now go to localhost:3000 in the browser.
+
+## Output visuals
+
+![code output1](./Screenshots/output1.jpg)
+
+![graph output2](./Screenshots/output2.jpg)
+![graph output3](./Screenshots/output5.jpg)
+![graph output4](./Screenshots/output6.jpg)
+![FileStructure](./Screenshots/filestruct.jpg)
